@@ -177,11 +177,11 @@ params:
 
       - job: "Learning Community Coordinator"
         company: "UNO"
-        companyUrl: "https://www.uno.edu/housing/living-learning"
+        companyUrl: "https://www.uno.edu/"
         date: "Aug 2019 - Aug 2022"
         featuredLink:
           enable: true
-          url: "https://adeolaf.podbean.com/e/scichat-episode-3/"
+          url: "https://www.uno.edu/housing/living-learning"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
