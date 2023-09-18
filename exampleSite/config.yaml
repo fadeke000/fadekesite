@@ -171,8 +171,8 @@ params:
         date: "Aug 2023 - Oct 2023"
         featuredLink:
           enable: true
-          name: "View the project"
-          url: "https://www.wilsonperformancelab.com/"
+          name: "View the research group"
+          url: "https://www.wilsonperformancelab.com/deception-in-animals-humans"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "Software Developer"
