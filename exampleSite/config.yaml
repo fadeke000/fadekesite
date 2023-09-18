@@ -257,14 +257,14 @@ params:
         featuredLink:
           enable: true
           name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+          url: "https://www.linkedin.com/in/fadeke-adeola-342b5398/"
+      - title: "Placeholder"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
+          name: "Placeholder"
+          url: "https://www.linkedin.com/in/fadeke-adeola-342b5398/"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.linkedin.com/in/fadeke-adeola-342b5398/"
 
   # Achievements
   achievements:
@@ -361,7 +361,7 @@ params:
     socialNetworks:
       github: https://github.com
       linkedin: https://linkedin.com/in/fadeke-adeola-342b5398/
-      instagram: https://instagram.com/fa.jpeg
+      instagram: https://www.instagram.com/fa.jpeg/
       facebook: https://facebook.com
 
   # List pages like blogs and posts
