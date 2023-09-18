@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Fadeke Adeola PhD."
     subtitle: "I'm a scientist and artist."
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "I am a creative blend of artist and scientist, seamlessly weaving the realms of imagination and exploration to bring forth innovative ideas and expressions."
     image: /images/hero.svg
     bottomImage:
       enable: true
