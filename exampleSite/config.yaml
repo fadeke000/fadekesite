@@ -166,14 +166,14 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Crayfish (Cherax dispar) fighting and performance research"
+        company: "University of Queensland"
+        companyUrl: "https://www.wilsonperformancelab.com/"
+        date: "Aug 2023 - Oct 2023"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
+          url: "https://www.wilsonperformancelab.com/"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "Software Developer"
@@ -232,21 +232,21 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Doctor of Philosophy Integrative Biology"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
+          name: "University of New Orleans"
+          url: "https://www.simonlailvaux.com/index.html"
+        date: "2017 - 2023"
         GPA: "3.8 out of 5.0"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Bachelor of Science in Biological Sciences"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
+          name: "University of New Orleans"
+          url: "https://www.uno.edu/academics/cos/biology"
+        date: "2013 - 2017"
         GPA: "3.9 out of 5.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
