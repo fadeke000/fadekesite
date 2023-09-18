@@ -237,7 +237,6 @@ params:
           name: "University of New Orleans"
           url: "https://www.simonlailvaux.com/index.html"
         date: "2017 - 2023"
-        GPA: "3.8 out of 5.0"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
