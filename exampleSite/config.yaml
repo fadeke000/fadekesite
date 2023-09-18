@@ -121,7 +121,7 @@ params:
     title: "Fadeke Adeola PhD."
     subtitle: "I'm a scientist and artist."
     content: "I am a creative blend of artist and scientist, seamlessly weaving the realms of imagination and exploration to bring forth innovative ideas and expressions."
-    image: /images/hero.svg
+    image: /images/Adeolaflowers.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
