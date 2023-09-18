@@ -238,22 +238,23 @@ params:
           url: "https://www.simonlailvaux.com/index.html"
         date: "2017 - 2023"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Publications
+            - [Coming Soon!! Bite force, body size, and octopamine mediate mating interactions in the house cricket (Acheta domesticus)](https://onlinelibrary.wiley.com/journal/14209101)
+            - [Octopamine affects courtship call structure in male Acheta domesticus crickets](https://www.sciencedirect.com/science/article/abs/pii/S0018506X2200085X) 
+            - [Maximum performance expression is affected by octopamine and antennae removal in Acheta domesticus](https://academic.oup.com/beheco/article/33/4/740/6576273?login=false)
+            
       - title: "Bachelor of Science in Biological Sciences"
         school:
           name: "University of New Orleans"
           url: "https://www.uno.edu/academics/cos/biology"
         date: "2013 - 2017"
-        GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          I Published two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            - Track and Field. High Jump
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
         featuredLink:
           enable: true
@@ -263,7 +264,6 @@ params:
         school:
           name: "Thomas Jefferson High School for Science and Technology."
           url: "https://example.org"
-        GPA: "4.2 out of 5.0"
         featuredLink:
           enable: true
           url: "https://example.com"
