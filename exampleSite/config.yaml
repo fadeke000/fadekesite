@@ -175,21 +175,20 @@ params:
           url: "https://www.wilsonperformancelab.com/deception-in-animals-humans"
         content: "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors the subtlest of movements and signals can determine dominance or submission within their aquatic world. Through careful observation and research, I aim to unravel the mysteries behind these fascinating crustaceans' battles, shedding light on their evolutionary strategies and the mechanisms that govern their social hierarchy."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Learning Community Coordinator"
+        company: "UNO"
+        companyUrl: "https://www.uno.edu/housing/living-learning"
+        date: "Aug 2019 - Aug 2022"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://adeolaf.podbean.com/e/scichat-episode-3/"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+         I worked as an event producer and content curator for the STEM learning community at the University of New Orleans 
+          - Facilitated Events for 200+ students of STEM majors within the residents halls	
+          - Coordinated Marking with the Director of Residential Life and the Department of Biological Sciences
 
       - job: "Junior Software Developer"
         company: "Apple"
