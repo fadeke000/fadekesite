@@ -154,12 +154,11 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "R/R Studio"
+        - "FIJI/Image J"
+        - "Audacity"
+        - "Procreate"
+        - "Adobe Express"
 
   # Experience
   experience:
