@@ -211,10 +211,11 @@ params:
         company: "Belle Epoque/Rue Bourbon Events"
         companyUrl: "https://eventup.com/venue/rue-bourbon-events/"
         date: "Oct 2022 - Aug 2023"
-        content: "I Bartended Private Events for the Rue Bourbon Compamy at Old Absinthe House. [Rue Bourbon Events Company](https://eventup.com/venue/rue-bourbon-events/) in New Orleans, LA. "
         featuredLink:
           enable: true
           url: "https://eventup.com/venue/rue-bourbon-events/"
+        content: "I Bartended Private Events for the Rue Bourbon Compamy at Old Absinthe House. [Rue Bourbon Events Company](https://eventup.com/venue/rue-bourbon-events/) in New Orleans, LA. "
+
 
       - job: "Executive Assistant/ Sales Independent Contractor"
         company: "Elektra Cosmetics"
