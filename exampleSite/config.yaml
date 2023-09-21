@@ -293,7 +293,7 @@ params:
         #url: https://example.com
 
   # projects
-  projects:
+  #projects:
     #enable: true
     # title: "Custom Name"
     #items:
@@ -326,7 +326,7 @@ params:
        #   - "Bootstrap"
       #  links:
        #   - icon: fab fa-github
-       @     url: https://github.com/
+       #@     url: https://github.com/
 
       #- title: Hugo Profile V2
         #content: A clean and simple Hugo template for personal portfolio and blog.
