@@ -2,7 +2,7 @@
 title: "Fresh Water Crayfish Field Trip"
 date: 2021-04-03T23:29:21+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
+github_link: ""
 author: "Fadeke Adeola"
 tags:
   - Cherax dispar
