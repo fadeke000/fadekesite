@@ -174,8 +174,7 @@ params:
           enable: true
           name: "View the research group"
           url: "https://www.wilsonperformancelab.com/deception-in-animals-humans"
-          content: "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors the subtlest of movements and signals can determine dominance or submission within their aquatic world. Through careful observation and research, I aim to unravel the mysteries behind these fascinating crustaceans' battles, shedding light on their evolutionary strategies and the mechanisms that govern their social hierarchy."
-         
+          content: "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors. 
       - job: "Research, Graduate Teaching Assistant"
         company: "University of New Orleans"
         companyUrl: "https://https://www.uno.edu/academics/cos/biology"
@@ -211,7 +210,7 @@ params:
         company: "Belle Epoque/Rue Bourbon Events"
         companyUrl: "https://eventup.com/venue/rue-bourbon-events/"
         date: "Oct 2022 - Aug 2023"
-        content: "I Bartended Private Events for the Rue Bourbon Compamy at Old Absinthe House. [Rue Bourbon Events Company](https://eventup.com/venue/rue-bourbon-events/) in New Orleans, LA. "
+        content: "I Bartended Private Events for the Rue Bourbon Compamy at Old Absinthe House. [Rue Bourbon Events Company](https://eventup.com/venue/rue-bourbon-events/) in New Orleans, LA."
 
 
       - job: "Executive Assistant/ Sales Independent Contractor"
