@@ -8,7 +8,7 @@ tags:
   - Sales
   - Elektra Cosmetics
   - Convention
-image: /images/post.jpg
+image: /images/convention.JPG
 description: ""
 toc: 
 ---
