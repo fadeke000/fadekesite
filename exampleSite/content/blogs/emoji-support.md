@@ -13,10 +13,9 @@ description: ""
 toc: 
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways. :zap:
 
 ## Convention!
-Introduction
+Introduction :zap:
 
 Los Angeles, the city of dreams and creativity, played host to one of the most fabulous and vibrant events of the year: Drag Con! For two incredible days, we had the privilege of setting up a dazzling booth and showcasing our glitter cosmetics amidst a kaleidoscope of colors, flamboyant fashion, and unapologetic self-expression. Join us as we recount our whirlwind journey at Drag Con Los Angeles.
 
