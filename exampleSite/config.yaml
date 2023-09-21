@@ -173,8 +173,8 @@ params:
           enable: true
           name: "View the research group"
           url: "https://www.wilsonperformancelab.com/deception-in-animals-humans"
-          content: | "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors the subtlest of movements and signals can determine dominance or submission within their aquatic world. Through careful observation and research, I aim to unravel the mysteries behind these fascinating crustaceans' battles, shedding light on their evolutionary strategies and the mechanisms that govern their social hierarchy."
-      
+          content: "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors the subtlest of movements and signals can determine dominance or submission within their aquatic world. Through careful observation and research, I aim to unravel the mysteries behind these fascinating crustaceans' battles, shedding light on their evolutionary strategies and the mechanisms that govern their social hierarchy."
+          content:  |
           While at the University of Queensland I was a visiting researcher
 
           - I learned to use the FIJI/ Image J software to measure claw charasteristics of fresh water crayfish 
