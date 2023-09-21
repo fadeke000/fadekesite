@@ -131,6 +131,12 @@ params:
       url: "#"
       download: true
       newPage: false
+    button:
+      enable: true
+      name: "CV"
+      url: "#"
+      download: true
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
