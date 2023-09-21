@@ -128,7 +128,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: /images/ADEOLAResume2023.docx
       download: true
       newPage: false
 
