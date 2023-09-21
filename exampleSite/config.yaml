@@ -275,17 +275,17 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Placeholder
-        content: Placeholder
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Placeholderr
-        content: Placeholder
+      - title: Defended Dissertation
+        content: March 2023
+        url: https://scholarworks.uno.edu/td/3093/
+        image: /images/sis.jpg
+      - title: Graduated
+        content: May 2023
         image: /images/achievment.jpg
       - title: Placeholder
         content: Placeholder
         url: ""
-        image: /images/achievment.jpg
+        image: /images/Gradday.PNG
       - title: Placeholder
         content: Placeholder
       - title: Placeholder
