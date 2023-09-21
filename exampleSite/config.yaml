@@ -174,7 +174,8 @@ params:
           enable: true
           name: "View the research group"
           url: "https://www.wilsonperformancelab.com/deception-in-animals-humans"
-          content: "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors. 
+          content: "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors."
+          
       - job: "Research, Graduate Teaching Assistant"
         company: "University of New Orleans"
         companyUrl: "https://https://www.uno.edu/academics/cos/biology"
