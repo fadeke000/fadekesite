@@ -206,13 +206,6 @@ params:
          I worked as an event producer and content curator for the STEM learning community at the University of New Orleans 
           - Facilitated Events for 200+ students of STEM majors within the residents halls	
           - Coordinated Marking with the Director of Residential Life and the Department of Biological Sciences
-          
-      - job: "Private Events Bartender"
-        company: "Belle Epoque/ Rue Bourbon Events"
-        companyUrl: "https://eventup.com/venue/rue-bourbon-events/"
-        date: "Oct 2022 - Aug 2023"
-        content: "I Bartended Private Events for the Rue Bourbon Compamy at Old Absinthe House. [Rue Bourbon Events Company](https://eventup.com/venue/rue-bourbon-events/) in New Orleans, LA."
-
 
       - job: "Executive Assistant/ Sales Independent Contractor"
         company: "Elektra Cosmetics"
@@ -236,7 +229,7 @@ params:
         company: "Rue Bourbon Events"
         companyUrl: "https://eventup.com/venue/rue-bourbon-events/"
         date: "Oct 2022 - Aug 2023"
-        content: "I was a private party bartender for parties ranging from 10 - 200 guests [Belle Epoque](https://eventup.com/venue/rue-bourbon-events/) in New Orleans, LA. "
+        content: "I was a private party bartender for parties ranging from 10 - 200 guests at [Belle Epoque](https://eventup.com/venue/rue-bourbon-events/) and other floors throughout the company in New Orleans, LA. "
 
   # Education
   education:
