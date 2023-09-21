@@ -281,11 +281,11 @@ params:
         image: /images/sis.jpg
       - title: Graduated
         content: May 2023
-        image: /images/achievment.jpg
+        image: /images/Gradday.PNG
       - title: Placeholder
         content: Placeholder
         url: ""
-        image: /images/Gradday.PNG
+        image: /images/achievment.jpg
       - title: Placeholder
         content: Placeholder
       - title: Placeholder
