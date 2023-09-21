@@ -167,7 +167,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Crayfish (Cherax dispar) fighting and performance research"
-        company: "University of Queensland"
+        company: "University of Queensland (Visiting Researcher)"
         companyUrl: "https://www.wilsonperformancelab.com/"
         date: "Aug 2023 - Oct 2023"
         featuredLink:
