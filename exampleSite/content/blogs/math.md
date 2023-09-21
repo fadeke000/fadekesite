@@ -1,19 +1,19 @@
 ---
-title: "Render Math With Mathjax"
+title: "First Live Aerial Hoop Performance"
 date: 2021-09-09T19:53:33+05:30
 draft: false
 author: "Fadeke Adeola"
 tags:
-  - Markdown syntax
-  - Mathjax
-  - example
+  - Aerial Hoop
+  - Pole Con
+  - Aerials
 image: /images/hoop.jpg
 description: ""
 toc: true
 mathjax: true
 ---
 
-## Mathjax
+## Blue Honey
 
 Pole Con 2021: My Aerial Hoop Debut in the Heart of New Orleans
 
