@@ -262,13 +262,13 @@ params:
           enable: true
           name: "My academic record"
           url: "https://www.linkedin.com/in/fadeke-adeola-342b5398/"
-      - title: "Placeholder"
-        school:
-          name: "Placeholder"
-          url: "https://www.linkedin.com/in/fadeke-adeola-342b5398/"
-        featuredLink:
-          enable: true
-          url: "https://www.linkedin.com/in/fadeke-adeola-342b5398/"
+    #  - title: "Placeholder"
+       # school:
+       #   name: "Placeholder"
+       #   url: "https://www.linkedin.com/in/fadeke-adeola-342b5398/"
+       # featuredLink:
+       #   enable: true
+       #   url: "https://www.linkedin.com/in/fadeke-adeola-342b5398/"
 
   # Achievements
   achievements:
