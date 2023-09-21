@@ -141,6 +141,12 @@ params:
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
+    button:
+      enable: true
+      name: "CV"
+      url: "#"
+      download: true
+      newPage: false
 
   # About
   about:
