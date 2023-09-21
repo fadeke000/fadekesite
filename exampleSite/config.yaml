@@ -282,10 +282,10 @@ params:
       - title: Graduated
         content: May 2023
         image: /images/Gradday.PNG
-      - title: Placeholder
-        content: Placeholder
-        url: ""
-        image: /images/achievment.jpg
+      - title: ERN Confrence Award
+        content: 1st Place Graduate Oral Presentation 
+        url: "https://emerging-researchers.org/2020-award-winners/"
+        image: /images/ern2020.jpg
       - title: Placeholder
         content: Placeholder
       - title: Placeholder
