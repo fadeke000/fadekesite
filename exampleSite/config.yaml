@@ -141,12 +141,6 @@ params:
       customIcons:
         - icon: /fav.png
           url: "https://fadeke-adeola.netlify.app/gallery/"
-    button:
-      enable: true
-      name: "CV"
-      url: "#"
-      download: true
-      newPage: false
 
   # About
   about:
