@@ -275,13 +275,13 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: Graduated
+        content: May 2023
+        image: /images/Gradday.PNG
       - title: Defended Dissertation
         content: March 2023
         url: https://scholarworks.uno.edu/td/3093/
         image: /images/sis.jpg
-      - title: Graduated
-        content: May 2023
-        image: /images/Gradday.PNG
       - title: ERN Confrence Award
         content: 1st Place Graduate Oral Presentation Jan 2020
         url: "https://emerging-researchers.org/2020-award-winners/"
