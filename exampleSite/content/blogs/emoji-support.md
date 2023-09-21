@@ -1,13 +1,13 @@
 ---
-title: "Emoji Support"
+title: "Los Angeles"
 date: 2023-05-01T22:53:58+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
+github_link: ""
 author: "Fadeke Adeola"
 tags:
-  - Emoji support
-  - Sample
-  - example
+  - Sales
+  - Elektra Cosmetics
+  - Convention
 image: /images/post.jpg
 description: ""
 toc: 
