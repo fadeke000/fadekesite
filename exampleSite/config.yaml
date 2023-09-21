@@ -173,8 +173,24 @@ params:
           enable: true
           name: "View the research group"
           url: "https://www.wilsonperformancelab.com/deception-in-animals-humans"
-        content: "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors the subtlest of movements and signals can determine dominance or submission within their aquatic world. Through careful observation and research, I aim to unravel the mysteries behind these fascinating crustaceans' battles, shedding light on their evolutionary strategies and the mechanisms that govern their social hierarchy."
+          content: "I am currently a visiting researcher at at [The University of Queensland](https://environment.uq.edu.au/) in St Lucia, Australia. I am currently working on a project looking at crayfish fighting behaviors the subtlest of movements and signals can determine dominance or submission within their aquatic world. Through careful observation and research, I aim to unravel the mysteries behind these fascinating crustaceans' battles, shedding light on their evolutionary strategies and the mechanisms that govern their social hierarchy."
+          
+      - job: "Research, Graduate Teaching Assistant"
+        company: "University of New Orleans"
+        companyUrl: "https://https://www.uno.edu/academics/cos/biology"
+        date: "Jan 2020 - Aug 2020"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          url: "https://www.simonlailvaux.com/publications.html"
+        content: |
+          While at the University of New Orleans I was a researcher and Graduate teaching assistant of the Biology 1 teaching labs
 
+          - I taught instrumentation and linear regression analysis in Microsoft Excel to freshman biology students.
+          - Instrumantation included: Agar plate prep techniques using GFP, spectrophotometry, DNA amplification using a thermocycler and visualization and analysis through gel electrophoresis.
+          - I used audacity to analyze male cricket calls 
+          
       - job: "Learning Community Coordinator"
         company: "UNO"
         companyUrl: "https://www.uno.edu/"
@@ -184,31 +200,17 @@ params:
           url: "https://www.uno.edu/housing/living-learning"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as a STEM coordinator for three years at the University of New Orleans.
         content: |
          I worked as an event producer and content curator for the STEM learning community at the University of New Orleans 
           - Facilitated Events for 200+ students of STEM majors within the residents halls	
           - Coordinated Marking with the Director of Residential Life and the Department of Biological Sciences
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+      - job: "Executive Assistant/ Sales Independent Contractor"
+        company: "Elektra Cosmetics"
+        companyUrl: "https://elektracosmetics.com/"
+        date: "Apr 2022 - July 2023"
         featuredLink:
           enable: true
           url: "https://example.com"
