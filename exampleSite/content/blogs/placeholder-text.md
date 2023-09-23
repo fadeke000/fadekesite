@@ -10,7 +10,7 @@ tags:
   - Red Hill
   - Ashgrove
 image: /images/4059.png
-description: "A poem I worte and perfromed at an open mic night at Junk Bar in Ashgrove a Suburb of Brisbane"
+description: "A poem I worte and perfromed at an open mic night at Junk Bar in Ashgrove a Suburb of Brisbane, Australia"
 toc: 
 ---
 
