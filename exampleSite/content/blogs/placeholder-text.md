@@ -1,41 +1,43 @@
 ---
-title: "Placeholder Text"
-date: 2021-04-03T22:41:10+05:30
+title: "4059"
+date: 2023-08-03T22:41:10+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+github_link: ""
+author: "Fadeke Adeola"
 tags:
-  - Placeholder text
-  - Sample
-  - example
-image: /images/post.jpg
-description: ""
+  - Poetry
+  - Brisbane
+  - Red Hill
+  - Ashgrove
+image: /images/4059.png
+description: "A poem I worte and perfromed at an open mic night at Junk Bar in Ashgrove a Suburb of Brisbane"
 toc: 
 ---
 
-Lorem est tota propiore conpellat pectoribus de pectora summo.
+4059 
+I’m writing from a new zip code. Time zone
+I miss home 
+won’t go though.
+Here’s a post card… from me.
+Take of steep breath of humidity 
+Touch the Spanish moss on the oak trees 
+For me..,breath me
+I’m open to love … finally
+Trying to retire all the bouts of all my wallowing.. gratuitously in sadness… kneading into the feeling 
+needing all the feeling 
+New Orleans my love you caress me then you bruise me 
+with your moods 
+You’re gorgeous but u scare me 
+anxiety and blues
+Warmth and soul food 
+The time is ticking surely… but am I coming back to you?
+It’s surely more free 
+Any chance to be floating 
+Hopping cities 
+I want to stop feeling so small
+But continue to feel so free
+New Orleans my love write back to me…
 
-Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
-
-  1. Exierant elisi ambit vivere dedere
-  2. Duce pollice
-  3. Eris modo
-  4. Spargitque ferrea quos palude
-
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
-
-  1. Comas hunc haec pietate fetum procerum dixit
-  2. Post torum vates letum Tiresia
-  3. Flumen querellas
-  4. Arcanaque montibus omnes
-  5. Quidem et
-
-# Vagus elidunt
-
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
-
-## Mane refeci capiebant unda mulcebat
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. Faces illo pepulere tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
 
 Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
 
