@@ -1,75 +1,49 @@
 ---
-title: "Rich Content"
+title: "Scarves Photoshoot"
 date: 2021-04-03T19:53:33+05:30
 draft: false
-author: "Gurusabarish"
+author: "Fadeke Adeola"
 tags:
-  - Rich content
-  - Sample
-  - example
-image: /images/post.jpg
+  - Modeling
+  - Turmeric Moon
+  - Scarves
+image: /images/moon.jpg
 description: ""
 toc: 
 ---
+## Celestial Elegance: Modeling Silk Astrology-Themed Scarves for Tumeric Moon
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+Introduction
 
-## Gist Simple Shortcode
-```
-{{</* gist spf13 7896402 "img.html" */>}}
-```
-<br>
-{{< gist spf13 7896402 "img.html" >}}
-<br>
+Imagine wrapping yourself in the mysteries of the cosmos while staying effortlessly stylish. That's precisely what I had the privilege of doing when I stepped into the world of modeling for my friend's local scarf company, which specializes in exquisite silk scarves inspired by astrology. [Farah Bilah](https://www.farahbillah.com/) owner of [Turmeric Moon](https://www.turmericmoon.com/) invited me to model her gorgeous scarves. Her amazing photographer friend [Dominique Richard](https://www.instagram.com/dmnqphoto/) captured the essence of these scarves through her lens. 
 
 
+Chapter 1: Options
 
-## Twitter Simple Shortcode
-```
-{{</* tweet GoHugoIO 1315233626070503424 */>}}
-```
-<br>
-{{< tweet GoHugoIO 1315233626070503424 >}}
-<br>
+Farah told us to come with clothing options and of course I came prepared with greens to wear as it is one of my favorite colors.   
+
+Chapter 2: The Art of Silk Drapery
+
+Silk, with its luxurious feel and shimmering sheen, was the perfect canvas for Farah's artistic vision. Draped in these celestial scarves and my green outfits, I felt as though I were wearing a piece of the cosmic void reminding me that I was gently being caressed at all times. The silk flowed gracefully, adding an air of sophistication to my.
+
+Chapter 3: Capturing Cosmic Essence
+
+To convey the true spirit of these astrology-themed scarves, we embarked on a photoshoot journey across our local area. We sought out locations that resonated with the celestial theme, from observatories to serene lakeshores under the canopy of a starlit night. Each backdrop added depth and context to the scarves' significance.
+
+Chapter 4: Wearing the Zodiac with Elegance
+
+One of the most captivating aspects of this project was the versatility of these scarves. Whether tied as a headscarf, draped over the shoulders, or wrapped around the waist as a belt, each styling choice revealed a unique facet of the scarf's astrological symbolism. It was a beautiful fusion of fashion and the cosmos.
+
+Chapter 5: A Cosmic Connection
+
+Throughout the project, we laugh chatted and figured out the best angles to pose in with the help of [Dominique](https://www.instagram.com/dmnqphoto/) we truly started to ooze the essense of cool. 
+
+Conclusion
+
+Modeling these silk astrology-themed scarves for my friend's local scarf company was a cosmic adventure filled with beauty and artistry. It allowed me to embrace the enchanting world of astrology and fashion, bringing the allure of the stars to life through elegant silk drapery. And dip my toe into the modeling world again. These scarves, each a celestial masterpiece, remind us that we are all stardust, and there's a little bit of the cosmos in everything we do and wear.They are available for sale online at [Turmeric Moon.](https://www.turmericmoon.com/)
 
 
 
-## Vimeo Simple Shortcode
-```
-{{</* vimeo 146022717 */>}}
-```
-<br>
-{{< vimeo 146022717 >}}
-<br>
 
 
-
-## Youtube Simple Shortcode
-```
-{{</* youtube w7Ft2ymGmfc */>}}
-```
-<br>
-{{< youtube w7Ft2ymGmfc >}}
-<br>
-
-## Theme Custom Shortcodes
-
-These shortcodes are not Hugo built-ins, but are provided by the theme.
-
-### Responsive Images with Cloudinary
-
-You can learn more about this [here](https://cloudinary.com/documentation/responsive_images).
-
-Set the `cloudinary_cloud_name` parameter in your site config to use this shortcode.
-
-```
-{{</* dynamic-img src="/my/image/on/cloudinary" title="A title for the image" */>}}
-```
-
-Note that you do not include the file extension (e.g. `.png`) in the `src` parameter, as the shortcode will automatically determine the best quality and format for the user's device.
-
-Optionally, you can customize the general CSS styles for the image:
-
-```
-{{</* dynamic-img src="/my/image/on/cloudinary" title="A title for the image" style="max-width:60%" */>}}
 ```
