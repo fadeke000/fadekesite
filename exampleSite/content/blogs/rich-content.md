@@ -1,12 +1,13 @@
 ---
-title: "Scarves Photoshoot"
+title: "Turmeric Moon Photoshoot"
 date: 2023-09-03T19:53:33+05:30
 draft: false
 author: "Fadeke Adeola"
 tags:
-  - Modeling
+  - Dominique Richards Photography
   - Turmeric Moon
   - Scarves
+  - Modeling
 image: /images/moon.jpg
 description: ""
 toc: 
