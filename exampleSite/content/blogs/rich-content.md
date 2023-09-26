@@ -1,6 +1,6 @@
 ---
 title: "Scarves Photoshoot"
-date: 2021-04-03T19:53:33+05:30
+date: 2023-09-03T19:53:33+05:30
 draft: false
 author: "Fadeke Adeola"
 tags:
@@ -40,7 +40,7 @@ Throughout the project, we laugh chatted and figured out the best angles to pose
 
 Conclusion
 
-Modeling these silk astrology-themed scarves for my friend's local scarf company was a cosmic adventure filled with beauty and artistry. It allowed me to embrace the enchanting world of astrology and fashion, bringing the allure of the stars to life through elegant silk drapery. And dip my toe into the modeling world again. These scarves, each a celestial masterpiece, remind us that we are all stardust, and there's a little bit of the cosmos in everything we do and wear.They are available for sale online at [Turmeric Moon.](https://www.turmericmoon.com/)
+Modeling these silk astrology-themed scarves for my friend's local scarf company was a cosmic adventure filled with beauty and artistry. It allowed me to embrace the enchanting world of astrology and fashion, bringing the allure of the stars to life through elegant silk drapery. And dip my toe into the modeling world again. These scarves, each a celestial masterpiece, remind us that we are all stardust, and there's a little bit of the cosmos in everything we do and wear. They are available for sale online at [Turmeric Moon.](https://www.turmericmoon.com/)
 
 
 
